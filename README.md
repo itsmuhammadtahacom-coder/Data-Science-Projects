@@ -26,3 +26,4 @@ Python | Pandas | NumPy | Scikit-learn | Matplotlib | Seaborn
 
 ## 📬 Contact
 Feel free to connect with me on LinkedIn!
+www.linkedin.com/in/muhammad-taha-10351a37a
